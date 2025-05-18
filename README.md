@@ -1,15 +1,34 @@
-<h1 align="center">Hi 👋, I'm Akash D Kanabur</h1>
-<h3 align="center">UI/UX Designer || Android developer</h3>
+# 👋 Hi, I'm Akash D Kanabur
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash kanabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kanabur" height="30" width="40" /></a>
-<a href="https://dribbble.com/akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="akash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akashkanabur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashkanabur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akash26504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash26504" height="30" width="40" /></a>
-</p>
+🎨 UI/UX Designer | 📱 Android Developer | 💡 Problem Solver
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+Hello! I'm Akash K, a self taught app developer and UI/UX designer with deeply passionate about crafting attractive interfaces with 2 years of experience in this field. My focus is in creating seamless app as well as frontend designs that align both user needs and business objectives. Driven by my obsessions with details. I thrive as a problem solver and collaborative team player. My process involves conducting thorough user research to truly grasp their needs and translating these insights into effective designs.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash26504&show_icons=true&locale=en" alt="akash26504" /></p>
+---
+
+## 🔧 Skills & Tools
+
+- **Design:** Figma, Sketch, Illustrator
+- **Development:** Kotlin, Java, Dart, Android Studio, Jetpack Compose
+- **Other:** Firebase, Git, Notion
+
+---
+
+## 🚀 What I Do
+
+- Design human-centered digital experiences
+- Develop responsive, efficient Android applications
+- Collaborate across disciplines to bring ideas to life
+
+---
+
+## 🌐 Let's Connect
+
+[Portfolio] •  
+[LinkedIn](https://www.linkedin.com/in/akash-kanabur-810372247/) •  
+[GitHub](https://github.com/akash26504) •  
+Email:akashkanabur@gmail.com • 
+
+---
+
+
