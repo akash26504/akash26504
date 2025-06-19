@@ -24,7 +24,7 @@ Hello! I'm Akash K, a self taught app developer and UI/UX designer with deeply p
 
 ## 🌐 Let's Connect
 
-[Portfolio] •  
+[Portfolio](https://akash-kanabur.netlify.app/) •  
 [LinkedIn](https://www.linkedin.com/in/akash-kanabur-810372247/) •  
 [GitHub](https://github.com/akash26504) •  
 Email:akashkanabur@gmail.com • 
